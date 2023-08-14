@@ -1,0 +1,109 @@
+/* ----------------Social Box Start--------------------- */
+
+.Social .main-heading {
+    font-family: Lexend;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 50px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #344054;
+}
+
+.Social .box {
+    background-color: #EAEAEA;
+    border-radius: 30px;
+    padding: 20px;
+}
+
+.Social .box .box-inner {
+    border: 1px dotted #FCFCFD;
+    padding: 100px 15px 30px 15px;
+}
+
+.Social .box .box-inner h2 {
+    font-family: Lexend;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FCFCFD;
+}
+
+.Social .box .box-inner p {
+    font-family: Lexend;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FCFCFD;
+}
+
+.Social .box .box-inner button {
+    background-color: #344054;
+    font-family: Lexend;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FCFCFD;
+    border-radius: 0%;
+    padding: 10px 20px 10px 20px;
+
+}
+
+/* ----------------Social Box End--------------------- */
+/* ---------------Social About start--------------------- */
+
+.Social .about .about-inner{
+   padding-right: 52px;
+}
+
+.Social .about h1 {
+    font-family: Lexend;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 50px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #344054;
+}
+
+.Social .about h2 {
+    font-family: Lexend;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #344054;
+}
+
+.Social .about p {
+    font-family: Lexend;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #344054;
+}
+.Social .small-box{
+  background-color: #E3E6E9;
+  border-radius: 30px;
+  padding: 30px 100px 30px 100px
+ 
+  
+}
+.Social .small-box .small-box-inner p{
+    font-family: Lexend;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #344054;
+}
