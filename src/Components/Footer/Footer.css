@@ -11,7 +11,7 @@
     text-align: left;
     color: #FCFCFD;
 }
-.footer li,p{
+.footer li{
     font-family: Lexend;
     font-size: 18px;
     font-weight: 400;
@@ -21,6 +21,19 @@
     color:  #FCFCFD;
     list-style: none;
 }
+.footer p{
+  font-family: Lexend;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  color:  #FCFCFD;
+  list-style: none;
+}
+
+
+
 .footer h2{
 
 font-family: Lexend;
@@ -31,5 +44,30 @@ letter-spacing: 0em;
 text-align: left;
 color: #FCFCFD;
 ;
+
+}
+hr{
+  
+  height: 2px;
+  background-color:#FCFCFD;
+
+}
+.footer .footer-lower ul{
+  font-family: Lexend;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 36px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.footer .footer-lower ul:last-child{
+
+  font-family: Lexend;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 25px;
+  letter-spacing: 0em;
+  text-align: left;
+  
 
 }

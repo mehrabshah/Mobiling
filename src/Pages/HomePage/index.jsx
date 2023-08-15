@@ -13,23 +13,28 @@ const HomePage = () => {
         <h1 className="main-heading">Mobiling Social</h1>
         <div className="row box mt-4">
           <div className="box-inner">
-          <div className="col-6">
+          <div className="col-lg-6 col-12">
             <h2>Information on data processing</h2>
             <p className="mt-3 mb-4">
               On our website we provide content from Storystream. To view this
               content, you must agree to the data processing by Storystream.
             </p>
+          
+          <div className="d-flex justify-content-lg-start justify-content-center ">
             <button type="button" class="btn">
               Agree
             </button>
             <button type="button" class="btn ms-4">
               Information on data privacy
             </button>
+            </div>
+           
+
           </div>
           </div>
         </div>
         <div className="row mt-5 about">
-          <div className="col-6 about-inner">
+          <div className="col-lg-6  col-12 about-inner">
             <h1>About Us</h1>
             <h2>Find out briefly but informatively</h2>
             <p>
@@ -41,7 +46,7 @@ const HomePage = () => {
               professional team and comfort of our car service.
             </p>
           </div>
-          <div className=" offset-1 col-5 small-box align-self-center">
+          <div className=" offset-lg-1 col-lg-5 col-12 offset-0  small-box align-self-center">
               <div className="small-box-inner row ">
                    <div className="col-5 text-center pt-3">
                        <img src="./images/Car.png"  className="img-fluid" />

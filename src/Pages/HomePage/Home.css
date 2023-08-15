@@ -102,8 +102,66 @@
     font-family: Lexend;
     font-size: 16px;
     font-weight: 400;
-    line-height: 20px;
+    line-height: 21px;
     letter-spacing: 0em;
     text-align: center;
     color: #344054;
+}
+
+@media (max-width: 996px) {
+    .Social .main-heading {
+        font-size: 40px;
+        font-weight: 500;
+        line-height: 50px;
+        letter-spacing: 0em;
+        text-align: center;
+        color: #344054;
+    }
+    .Social .box .box-inner h2 {
+        font-family: Lexend;
+        font-size: 32px;
+        font-weight: 500;
+        line-height: 40px;
+        letter-spacing: 0em;
+        text-align: center;
+        color: #FCFCFD;
+    }
+   
+    .Social .box .box-inner p {
+        font-family: Lexend;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 20px;
+        letter-spacing: 0em;
+        text-align: center;
+        color: #FCFCFD;
+    }
+
+    .Social .about h1 {
+        font-family: Lexend;
+        font-size: 40px;
+        font-weight: 500;
+        line-height: 50px;
+        letter-spacing: 0em;
+        text-align: center;
+        color: #344054;
+    }
+    .Social .about h2 {
+        font-family: Lexend;
+        font-size: 32px;
+        font-weight: 400;
+        line-height: 40px;
+        letter-spacing: 0em;
+        text-align: center;
+        color: #344054;
+    }
+    .Social .about p {
+        font-family: Lexend;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 25px;
+        letter-spacing: 0em;
+        text-align: center;
+        color: #344054;
+    }
 }
