@@ -1,6 +1,6 @@
 /* ----------------Social Box Start--------------------- */
 .heading-hero{
-    font-family: Lexend;
+    font-family: 'Lexend';
 font-size: 65px;
 font-weight: 600;
 line-height: 80px;
@@ -17,20 +17,20 @@ text-align: left;
     width: 60%;
   }
   .product-heading{
-    font-family: Lexend;
+    font-family: 'Lexend';
 font-size: 36px;
 color: #344054;
   }
 
   .discription h3{
-    font-family: Lexend;
+    font-family: 'Lexend';
 font-size: 16px;
 color: #98A2B3;
 
   }
   .discription h2{
     color: #667085;
-    font-family: Lexend;
+    font-family: 'Lexend';
     font-size: 24px;
     font-weight: 300;
 
@@ -55,7 +55,7 @@ color: #98A2B3;
   }
   .search-input::placeholder{
     color: #D0D5DD;
-    font-family: Lexend;
+    font-family: 'Lexend';
 font-size: 18px;
 
   }
@@ -73,7 +73,7 @@ font-size: 18px;
   }
   
 .subHeading-hero{
-    font-family: Lexend;
+    font-family: 'Lexend';
 font-size: 24px;
 font-weight: 400;
 line-height: 30px;
@@ -83,7 +83,7 @@ color: #98A2B3;
 
 }
 .Social .main-heading {
-    font-family: Lexend;
+    font-family: 'Lexend';
     font-size: 40px;
     font-weight: 500;
     line-height: 50px;
@@ -129,18 +129,18 @@ color: #98A2B3;
   }
   
 .Social .box {
-    background-color: #EAEAEA;
+  background: linear-gradient(180deg, rgba(2, 30, 53, 0.4) 0%, rgba(2, 30, 53, 0.333307) 50%, rgba(2, 30, 53, 2) 100%);
     border-radius: 30px;
     padding: 20px;
 }
 
 .Social .box .box-inner {
-    border: 1px dotted #FCFCFD;
+  background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='none' stroke='white' stroke-width='4' stroke-dasharray='6%2c 14' stroke-dashoffset='0' stroke-linecap='square'/%3e%3c/svg%3e");
     padding: 100px 15px 30px 15px;
 }
 
 .Social .box .box-inner h2 {
-    font-family: Lexend;
+    font-family: 'Lexend';
     font-size: 32px;
     font-weight: 500;
     line-height: 40px;
@@ -150,7 +150,7 @@ color: #98A2B3;
 }
 
 .Social .box .box-inner p {
-    font-family: Lexend;
+    font-family: 'Lexend';
     font-size: 16px;
     font-weight: 400;
     line-height: 20px;
@@ -161,7 +161,7 @@ color: #98A2B3;
 
 .Social .box .box-inner button {
     background-color: #344054;
-    font-family: Lexend;
+    font-family: 'Lexend';
     font-size: 18px;
     font-weight: 400;
     line-height: 23px;
@@ -181,7 +181,7 @@ color: #98A2B3;
 }
 
 .Social .about h1 {
-    font-family: Lexend;
+    font-family: 'Lexend';
     font-size: 40px;
     font-weight: 500;
     line-height: 50px;
@@ -191,7 +191,7 @@ color: #98A2B3;
 }
 
 .Social .about h2 {
-    font-family: Lexend;
+    font-family: 'Lexend';
     font-size: 32px;
     font-weight: 400;
     line-height: 40px;
@@ -201,7 +201,7 @@ color: #98A2B3;
 }
 
 .Social .about p {
-    font-family: Lexend;
+    font-family: 'Lexend';
     font-size: 20px;
     font-weight: 400;
     line-height: 25px;
@@ -217,7 +217,7 @@ color: #98A2B3;
   
 }
 .Social .small-box .small-box-inner p{
-    font-family: Lexend;
+    font-family: 'Lexend';
     font-size: 16px;
     font-weight: 400;
     line-height: 21px;
@@ -236,7 +236,7 @@ color: #98A2B3;
         color: #344054;
     }
     .Social .box .box-inner h2 {
-        font-family: Lexend;
+        font-family: 'Lexend';
         font-size: 32px;
         font-weight: 500;
         line-height: 40px;
@@ -246,7 +246,7 @@ color: #98A2B3;
     }
    
     .Social .box .box-inner p {
-        font-family: Lexend;
+        font-family: 'Lexend';
         font-size: 16px;
         font-weight: 400;
         line-height: 20px;
@@ -256,7 +256,7 @@ color: #98A2B3;
     }
 
     .Social .about h1 {
-        font-family: Lexend;
+        font-family: 'Lexend';
         font-size: 40px;
         font-weight: 500;
         line-height: 50px;
@@ -265,7 +265,7 @@ color: #98A2B3;
         color: #344054;
     }
     .Social .about h2 {
-        font-family: Lexend;
+        font-family: 'Lexend';
         font-size: 32px;
         font-weight: 400;
         line-height: 40px;
@@ -274,7 +274,7 @@ color: #98A2B3;
         color: #344054;
     }
     .Social .about p {
-        font-family: Lexend;
+        font-family: 'Lexend';
         font-size: 20px;
         font-weight: 400;
         line-height: 25px;

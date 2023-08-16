@@ -9,17 +9,14 @@ function Footer() {
           <div className="row">
             <div className="col-lg-3 col-12">
               <div className="d-flex mt-5 ">
-                <img />
-                <div>
-                  <h1>Mobiling</h1>
-                  <h2>Automobile</h2>
-                </div>
+              <img src="images/footerLogo.png" alt="" />
               </div>
               <p className="mt-4">
                 As an upscale and exclusive chauffeur and limousine service near
                 Indonesia, we have been ensuring for more than 15 years that you
                 get to your destination on time and safely.
               </p>
+              <img src="images/SocialIcons.png" alt="" />
             </div>
             <div className="custom-padding  col-lg-9     col-12">
               <div className="row">
