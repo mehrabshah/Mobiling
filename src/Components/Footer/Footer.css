@@ -60,7 +60,7 @@ hr{
   letter-spacing: 0em;
   text-align: left;
 }
-.footer .footer-lower ul:last-child{
+.footer .footer-lower li{
 
   font-family: Lexend;
   font-size: 20px;
@@ -69,5 +69,24 @@ hr{
   letter-spacing: 0em;
   text-align: left;
   
+}
+
+.custom-padding{
+  padding-left: 2px;
+
+} 
+.custom-padding{
+  padding-left: 170px;
+
+} 
+@media (max-width: 996px) {
+  .custom-padding{
+    padding-left: 0px;
+  
+  } 
+
 
 }
+
+
+
