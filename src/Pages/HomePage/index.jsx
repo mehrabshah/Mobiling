@@ -1,14 +1,62 @@
 // HomePage.js
 import React from "react";
 import  './Home.css';
+import Navbar from "../../Components/Navbar";
 
-// import Navbar from './Navbar';
 
 const HomePage = () => {
   return (
     <div>
-      {/* <Navbar /> */}
+       <div className="main-section">
+      <Navbar/>
+      <div className="container hero-section">
+        <div className="row container align-items-bottom">
+        <div className="col-md-7 radial-background">
+          <h1 className="heading-hero mb-md-4 mb-2 mt-md-5 mt-2">Best Car For Your Performance</h1>
+          <p className="subHeading-hero mb-md-4 mb-2">We will serve you to get dream car here easily and quickly that is reliable</p>
+          <div className="search-container mb-md-5 mb-2">
+      <input type="text" className="search-input" placeholder="Search..." />
+      <button className="search-button">
+        <i className="fas fa-search"></i>
+      </button>
+    </div>
+    <div className="col-md-8 ">
 
+    <h2 className="product-heading mb-md-3 mb-2">BMW Series 3 BLUE</h2>
+    <div className="mb-md-5 mb-3">
+
+    <div className="discription d-flex justify-content-between ">
+      <div>
+      <h3>Base Price</h3>
+      <h2>$ 41.87k</h2>
+      </div>
+      <div>
+      <h3>Power</h3>
+      <h2>365 HP</h2>
+      </div>
+      <div>
+      <h3>Engine</h3>
+      <h2>362 V6</h2>
+      </div>
+    </div>
+    <img src="images/Group9.png" alt="" />
+    </div>
+        </div>
+    </div>
+    <div className="col-md-5 ">
+      <div className="img-container">
+
+  <div className="background-image"></div>
+  <div className="circle-container">
+    <img src="images/text-circle.png" alt="" />
+    <img src="images/star.png" className="star-img" alt="" />
+  </div>
+  <img src="images/car-bmw.png" className="img-fluid car-img mb-md-5 mb-2" alt="" />
+      </div>
+</div>
+      </div>
+      </div>
+     </div>
       <div className="container Social p-5">
         <h1 className="main-heading">Mobiling Social</h1>
         <div className="row box mt-4">
